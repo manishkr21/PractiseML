@@ -1,2 +1,3 @@
 # PractiseML
-Some good things used in ml
+Some good things used in ml | NLP | Deeplearning
+ 
